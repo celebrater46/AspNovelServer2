@@ -1,0 +1,7 @@
+C:\Users\Enin\RiderProjects\AspNovelServer2\AspNovelServer2\obj\Debug\net5.0\AspNovelServer2.csproj.AssemblyReference.cache
+C:\Users\Enin\RiderProjects\AspNovelServer2\AspNovelServer2\obj\Debug\net5.0\AspNovelServer2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enin\RiderProjects\AspNovelServer2\AspNovelServer2\obj\Debug\net5.0\AspNovelServer2.AssemblyInfoInputs.cache
+C:\Users\Enin\RiderProjects\AspNovelServer2\AspNovelServer2\obj\Debug\net5.0\AspNovelServer2.AssemblyInfo.cs
+C:\Users\Enin\RiderProjects\AspNovelServer2\AspNovelServer2\obj\Debug\net5.0\AspNovelServer2.csproj.CoreCompileInputs.cache
+C:\Users\Enin\RiderProjects\AspNovelServer2\AspNovelServer2\obj\Debug\net5.0\AspNovelServer2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Enin\RiderProjects\AspNovelServer2\AspNovelServer2\obj\Debug\net5.0\AspNovelServer2.MvcApplicationPartsAssemblyInfo.cache
